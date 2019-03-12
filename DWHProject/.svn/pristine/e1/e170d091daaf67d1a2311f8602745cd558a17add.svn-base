@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/11/2019 10:30:09 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="DMATO-LP"
+  DTS:CreatorName="MELITA\dmato"
+  DTS:DTSID="{CEFDC5FF-161F-4F01-9165-A2C030C26019}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="14.0.3026.27"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{63D5C04A-2E28-479D-8FF6-249A24931BED}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
